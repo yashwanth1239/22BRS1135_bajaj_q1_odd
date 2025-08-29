@@ -3,7 +3,7 @@ Overview
 Spring Boot application that automatically processes webhook requests, solves SQL problems, and submits solutions using JWT authentication.
 Solution Details
 
-Registration Number: REG12347 (Odd → Question 1)
+Registration Number: 22BRS1135 (Odd → Question 1)
 Problem: Find highest salary not paid on 1st day of month with employee details
 
 SQL Query
